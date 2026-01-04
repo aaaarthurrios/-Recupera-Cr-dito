@@ -1,0 +1,6 @@
+cliente_id,idade,renda_mensal,valor_divida,dias_atraso,quantidade_dividas,score_credito,status_pagamento,recuperado
+1,35,3500,1200,20,1,720,Em atraso,Sim
+2,42,2200,5400,90,3,480,Em atraso,Não
+3,28,4100,800,10,1,810,Em atraso,Sim
+4,50,1800,3000,120,2,450,Em atraso,Não
+5,31,5200,1500,25,1,690,Em atraso,Sim
